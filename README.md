@@ -1,5 +1,5 @@
 ## Hi there, I'm Guilherme Almeida 👋
-### A Computer Science Student at Federal University of Roraima, in Brazil. Wishing to learn web developement with Django Framework.
+### A Computer Science Student at Federal University of Roraima, in Brazil. I'm wishing to learn web developement with Django Framework.
 - 🧱🔨 I'm currently working on improve my python level from intermediate to advanced.
 - 🏹👨‍🎓 I'm seeking learn:
   - Django Framework
