@@ -14,7 +14,7 @@
 - 📚🤓 I'm learning a little of:
   - HTML
   - CSS
-- 🎯📝 My future learning goals:
+  - PHP
   - Docker
   - RabbitMQ
-  - PHP
+- 🎯📝 My future learning goals:
