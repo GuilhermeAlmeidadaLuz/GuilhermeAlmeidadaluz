@@ -9,11 +9,11 @@
     - Linux
     - Java and Object Oriented Programming
     - C Language
+    - HTML
+    - CSS
 - 🏹👨‍🎓 I'm seeking learn:
   - Django Framework
 - 📚🤓 I'm learning a little of:
-  - HTML
-  - CSS
   - PHP
   - Docker
   - RabbitMQ
