@@ -11,7 +11,7 @@ I'm wishing learn and explore web developement with Python's frameworks as a Bac
 
 
 ## 🧱🔨 I'm currently working on:
-improving my skills at language
+improving my skills at
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
