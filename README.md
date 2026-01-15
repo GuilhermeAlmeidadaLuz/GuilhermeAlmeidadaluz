@@ -17,6 +17,8 @@ improving my skills at
 
 ## 🧰🔦 I have a basic/introductory knowledge on:
 
+![JavaScript]
+
 ![SQL](https://img.shields.io/badge/sql-447.svg?style=for-the-badge&&logoColor=white)
 
 
