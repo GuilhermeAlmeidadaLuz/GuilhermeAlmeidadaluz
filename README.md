@@ -2,7 +2,7 @@
 
 ## 📜 About me
 A Computer Science Student at Federal University of Roraima, in Brazil.
-I'm wishing learn and explore web developement with Python's frameworks as a Backend Developer
+I'm wishing learn and explore web developement as a Backend Developer
 
 ## 🔗 Personal Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-almeida-604a69296)
